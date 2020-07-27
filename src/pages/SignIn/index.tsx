@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 import React, { useCallback, useRef } from 'react';
 import {
   Image,
